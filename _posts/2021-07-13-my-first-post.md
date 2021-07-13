@@ -1,3 +1,8 @@
+---
+title: "Welcome to my blog"
+date: 2021-07-13
+---
+
 In this first post I am going to add a little description of myself:
 <p>My name is Suelen Rodrigues and I am in the process of changing careers.</p>
 With a degree in Accounting Science, I have lived in a few countries and now I am learning about software development.<br>
